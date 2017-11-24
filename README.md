@@ -42,11 +42,14 @@ var TASK_ARRAY = ['html', 'image', 'scripts', 'styles'];
 		
 */
 ```
+
+```
 **SRC_DEST** -  @string destination of source files
 **BUILD_DEST** - @string destination of builded files
 **SCSS_FILE** - @string name of .scss file which You'll compile
 **DO_...** - @bool switch of disable/enable task from title
 **TASK_ARRAY** @array array of tasks included in **default** task
+```
 
 * Run by **gulp** command
 * Enjoy! - Your files are in directory setted in config
