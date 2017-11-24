@@ -1,0 +1,23 @@
+{
+  "name": "fast-gulp",
+  "version": "1.0.0",
+  "description": "A simply configured gulpfile.js with major of important tasks and configure option",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cache": "^1.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-minify-html-2": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "truskul (https://github.com/truskul/)",
+  "license": "ISC"
+}
